@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_inorder -traversal node in postorder
+ * binary_tree_postorder -traversal node in postorder
  * @tree:tree
  * @func:function pointer
  * Return:Void
